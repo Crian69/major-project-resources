@@ -17,5 +17,5 @@ https://ssrn.dor.gov.np/traffic_controller
 ## dunno looks like some internal dashboard for traffic light control
 https://tls.dor.gov.np/
 
-## Traffic Light Optimization with RL (last year)
+## Traffic Light Optimization with RL (Franework) (last year)
 https://github.com/aadi1011/Traffic-Light-Optimization-With-Reinforcement-Learning
