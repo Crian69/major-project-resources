@@ -10,3 +10,9 @@ https://lalitpurmun.gov.np/sites/lalitpurmun.gov.np/files/ATCS%20Inaugauration%2
 
 ## Some advanced thing we can look on this later on
 https://www.mdpi.com/2624-8921/6/4/103
+
+## 3day traffic data/year from 2011
+https://ssrn.dor.gov.np/traffic_controller
+
+## dunno looks like some internal dashboard for traffic light control
+https://tls.dor.gov.np/
