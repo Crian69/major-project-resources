@@ -19,3 +19,6 @@ https://tls.dor.gov.np/
 
 ## Traffic Light Optimization with RL (Franework) (last year)
 https://github.com/aadi1011/Traffic-Light-Optimization-With-Reinforcement-Learning
+
+## VEHICLE TRAFFIC MANAGEMENT AND ANALYSIS, analysis done by pulchowk student on traffic as their minor project
+https://www.nischalmaharjan.info.np/assets/pdf/Vehicle_Traffic_Management_and_Analysis.pdf
