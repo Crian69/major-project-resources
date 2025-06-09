@@ -7,3 +7,6 @@ https://wellcomeopenresearch.s3.eu-west-1.amazonaws.com/manuscripts/21204/4499e8
 
 ## Incidence and outcome of Acute Kidney Injury in patients admitted in a level III ICU in Nepal (HAMS), 19% Mortality, 660 patients
 https://nepjol.info/index.php/jnsccm/article/download/67666/51532/197560
+
+## Sepsis among Adults Admitted in ICU at Department of Anesthesiology and Critical Care, Nepal Armed Police   Force   Hospital,   Balambu,   Kathmandu,   Nepal., sepsis was seen in 74 (37.95%) out of 195 patients
+https://www.jnma.com.np/jnma/index.php/jnma/article/view/8439
