@@ -10,3 +10,6 @@ https://nepjol.info/index.php/jnsccm/article/download/67666/51532/197560
 
 ## Sepsis among Adults Admitted in ICU at Department of Anesthesiology and Critical Care, Nepal Armed Police   Force   Hospital,   Balambu,   Kathmandu,   Nepal., sepsis was seen in 74 (37.95%) out of 195 patients
 https://www.jnma.com.np/jnma/index.php/jnma/article/view/8439
+
+## Data sets
+https://www.kaggle.com/datasets/salikhussaini49/prediction-of-sepsis
