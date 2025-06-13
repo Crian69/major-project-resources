@@ -1,0 +1,1 @@
+Folder contains the papers we reviewed and the needed information from the paper in the fomrat specified by format_for_literature_review.pdf, the papers are listed in the `papers` directory, and the review details are listed in the directory done by each person in their respective directory named after the person
